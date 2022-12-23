@@ -1,11 +1,8 @@
 # PathTracingWorkshop_IntelDevTools
 
-
 [Path tracing workshop](https://momentsingraphics.de/PathTracingWorkshop.html)
 
-
 [Path-Tracing Workshop Part 1: Learn to Write a Path Tracer in GLSL](https://www.intel.com/content/www/us/en/developer/videos/path-tracing-workshop-part-1.html#gs.l7grnv)
-
 
 ## 備考
 
@@ -15,5 +12,3 @@
     - `.py`
     - `.frag`
   - 雑多な可能性あり
-
-

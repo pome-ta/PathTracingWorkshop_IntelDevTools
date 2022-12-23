@@ -9,4 +9,3 @@ void mainImage(out vec4 out_color, in vec2 pixel_coord) {
   out_color.rgb = get_background_color();
   out_color.a = 1.0;
 }
-
